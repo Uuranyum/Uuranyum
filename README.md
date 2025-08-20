@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uuranyum
 - 👀 I’m interested in Data Science and AI Stuffs
-- 🌱 I’m currently learning AI Agents
+- 🌱 I’m currently learning something about AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin
 - 😄 Pronouns: Mr.
