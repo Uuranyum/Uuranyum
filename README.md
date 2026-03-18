@@ -1,12 +1,11 @@
-# Hi, I'm Uğur Demirkaya (@Uuranyum)
+# 👋 Hi, I'm Uğur Demirkaya (@Uuranyum)
 
-### Data Scientist & AI Engineer 
+### 🤖 Data Scientist & AI Engineer 
 
-I am a results-driven Data Scientist and AI Engineer with over 5 years of experience in turning complex data into actionable insights. 
-Currently pursuing an **MSc in Data and Information Engineering** at Hacettepe University, I specialize in building intelligent systems, optimization models, and scalable AI solutions.
+I am a results-driven Data Scientist and AI Engineer with over 5 years of experience in turning complex data into actionable insights. Currently pursuing an **MSc in Data and Information Engineering** at Hacettepe University, I specialize in building intelligent systems, optimization models, and scalable AI solutions.
 ---
 
-### Technical Expertise
+### 🚀 Technical Expertise
 
 * **AI & Machine Learning:** Deep Learning, Generative AI, Prompt Engineering, and Predictive Modeling.
 * **Data Engineering:** Designing robust pipelines, ETL processes, and working with SQL/NoSQL databases.
